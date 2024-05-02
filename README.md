@@ -81,7 +81,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![output](./a.png)
+![output](./b.png)
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
