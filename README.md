@@ -21,7 +21,7 @@ Print the Huffman code for the string.
 
 # Get the input String
 ```
-string = 'Tirupathi Jayadeep'
+string = 'MADHAN BABU p'
 ```
 # Create tree nodes
 ```
